@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, WPF, Python, OpenCV**
 
-- 💻 I am currently searching for a software engineering placement starting June 2025
+- 💻 I am currently searching for a software engineering placement starting summer 2025
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
