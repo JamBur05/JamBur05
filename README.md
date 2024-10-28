@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Gig Tracker](https://github.com/JamBur05/GigTracker)
 
+- 💻 My most recent project [Automatic Darts Scorer](https://github.com/MattR2718/Automatic-Darts-Scoring) 
+
 - 🌱 I’m currently learning **C#, WPF, Python, OpenCV**
 
 - 💻 I am currently searching for a software engineering placement starting summer 2025
