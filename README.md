@@ -5,7 +5,7 @@
 
 - 💻 My most recent project [Automatic Darts Scorer](https://github.com/MattR2718/Automatic-Darts-Scoring) 
 
-- 🌱 I’m currently learning **C#, WPF, Python, OpenCV**
+- 🌱 I’m currently learning **C#, C++, Python, WPF, OpenCV**
 
 - 💻 I am currently searching for a software engineering placement starting summer 2025
 
